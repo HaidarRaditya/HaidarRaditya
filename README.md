@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raditya Haidar Maheswara</h1>
 
 <p align="center">
-  <img src="./banner-github.gif" width="700" height="350" alt="banner">
+  <img src="./banner-github.gif" width="500" height="250" alt="banner">
 </p>
 
 <h3 align="center">an Electrical Engineering student at Institut Teknologi Sepuluh Nopember (ITS) 🇮🇩</h3>
@@ -36,9 +36,5 @@
 </table>
 
 <br>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=HaidarRaditya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
 
 ---

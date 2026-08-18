@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Banner GithUb.gif" width="800" height="250" alt="banner">
+  <img src="./banner-github.gif" width="800" height="250" alt="banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Raditya Haidar Maheswara</h1>

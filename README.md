@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="Banner GithUb.gif" width="800" height="250" alt="banner">
+  <img src="./Banner GithUb.gif" width="800" height="250" alt="banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Raditya Haidar Maheswara</h1>
 <h3 align="center">an Electrical Engineering student at Institut Teknologi Sepuluh Nopember (ITS) 🇮🇩</h3>
 
 <p align="center">
-  I'm usually called <b>Radit</b>. I have strong interests in <b>IoT, Embedded Devices, Robotics, Hardware, and Semiconductor Engineering</b>.<br>
+  I'm usually called Radit. I have strong interests in <b>IoT, Embedded Devices, Robotics, Hardware, and Semiconductor Engineering</b>.<br>
   I work across <b>control systems, circuit design, signal processing, and hardware engineering</b>, with a primary focus on <b>embedded systems</b>.<br>
   Here you'll find my original code for various embedded and robotics projects! 🚀
 </p>
@@ -37,7 +37,7 @@
 <br>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=HaidarRaditya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 ---

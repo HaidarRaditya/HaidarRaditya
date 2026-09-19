@@ -30,7 +30,7 @@
       <a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/></a><br><sub><b>Arduino</b></sub>
     </td>
     <td align="center" title="KiCad">
-      <a href="https://www.kicad.org/"><img src="https://raw.githubusercontent.com/HaidarRaditya/HaidarRaditya/main/cpp.svg" alt="kicad" width="40" height="40"/></a><br><sub><b>KiCad</b></sub>
+      <a href="https://www.kicad.org/"><img src="https://raw.githubusercontent.com/HaidarRaditya/HaidarRaditya/main/kicad.svg" alt="kicad" width="40" height="40"/></a><br><sub><b>KiCad</b></sub>
     </td>
   </tr>
 </table>

@@ -4,7 +4,7 @@
   <img src="./banner-github.gif" width="500" height="250" alt="banner">
 </p>
 
-<h3 align="center">an Electrical Engineering student at Institut Teknologi Sepuluh Nopember (ITS) 🇮🇩</h3>
+<h3 align="center"> Electrical Engineering student at Sepuluh Nopember Institute Technology (ITS) </h3>
 
 <p align="center">
   I'm usually called <b>Radit</b> or <b>Hayder</b>. I have strong interests in IoT, Embedded Devices, Robotics, Hardware, and Semiconductor Engineering.<br>

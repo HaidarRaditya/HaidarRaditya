@@ -21,16 +21,16 @@
 <table align="center">
   <tr>
     <td align="center" title="C">
-      <a href="https://en.cppreference.com/w/c"><img src="c.svg" alt="c" width="40" height="40"/></a><br><sub><b>C</b></sub>
+      <a href="https://en.cppreference.com/w/c"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a><br><sub><b>C</b></sub>
     </td>
     <td align="center" title="C++">
-      <a href="https://en.cppreference.com/w/cpp"><img src="cpp.svg" alt="cpp" width="40" height="40"/></a><br><sub><b>C++</b></sub>
+      <a href="https://en.cppreference.com/w/cpp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a><br><sub><b>C++</b></sub>
     </td>
     <td align="center" title="Arduino">
       <a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/></a><br><sub><b>Arduino</b></sub>
     </td>
     <td align="center" title="KiCad">
-      <a href="https://www.kicad.org/"><img src="kicad.svg" alt="kicad" width="40" height="40"/></a><br><sub><b>KiCad</b></sub>
+      <a href="https://www.kicad.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kicad/kicad-original.svg" alt="kicad" width="40" height="40"/></a><br><sub><b>KiCad</b></sub>
     </td>
   </tr>
 </table>

@@ -24,6 +24,9 @@
     <td align="center" title="C++">
       <a href="https://en.cppreference.com/w/cpp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a><br><sub><b>C++</b></sub>
     </td>
+    <td align="center" title="VS Code">
+      <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a><br><sub><b>VS Code</b></sub>
+    </td>
     <td align="center" title="Arduino">
       <a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/></a><br><sub><b>Arduino</b></sub>
     </td>

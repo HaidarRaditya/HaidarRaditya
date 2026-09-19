@@ -7,12 +7,10 @@
 <h3 align="center">an Electrical Engineering student at Institut Teknologi Sepuluh Nopember (ITS) 🇮🇩</h3>
 
 <p align="center">
-  I'm usually called <b>Radit</b>. I have strong interests in IoT, Embedded Devices, Robotics, Hardware, and Semiconductor Engineering.<br>
-  I work across Control Systems, Circuit Design, Signal Processing, and Hardware Engineering, with a primary focus on <b>Embedded Systems</b>.<br>
-  Here you'll find my original code for various embedded and robotics projects. 🚀
+  I'm usually called <b>Radit</b> or <b>Hayder</b>. I have strong interests in IoT, Embedded Devices, Robotics, Hardware, and Semiconductor Engineering.<br>
+  I work across Robotics, Circuit Design, and C++ Programming for Microcontrollers, with a primary focus on <b>Embedded Systems</b>.<br>
+  Here you'll find my original code for various IoT, Embedded and Robotics projects. 🚀
 </p>
-
-<p align="center">🌱 <b>Currently focused on:</b> Embedded Systems & Robotics</p>
 
 <br>
 

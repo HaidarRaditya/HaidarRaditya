@@ -8,7 +8,7 @@
 
 <p align="center">
   I'm usually called <b>Radit</b> or <b>Hayder</b>. I have strong interests in IoT, Embedded Devices, Robotics, Hardware, and Semiconductor Engineering.<br>
-  I work across Robotics, Circuit Design, and C++ Programming for Microcontrollers, with a primary focus on <b>Embedded Systems</b>.<br>
+  I work across Robotics, PCB Design, and C++ Programming for Microcontrollers, with a primary focus on <b>Embedded Systems</b>.<br>
   Here you'll find my original code for various IoT, Embedded and Robotics projects. 🚀
 </p>
 

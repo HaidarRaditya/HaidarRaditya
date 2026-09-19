@@ -21,7 +21,7 @@
 <table align="center">
   <tr>
     <td align="center" title="C">
-      <a href="https://en.cppreference.com/w/c"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a><br><sub><b>C</b></sub>
+      <a href="https://en.cppreference.com/w/c"><img src="c.svg" alt="c" width="40" height="40"/></a><br><sub><b>C</b></sub>
     </td>
     <td align="center" title="C++">
       <a href="https://en.cppreference.com/w/cpp"><img src="cpp.svg" alt="cpp" width="40" height="40"/></a><br><sub><b>C++</b></sub>

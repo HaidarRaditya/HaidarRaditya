@@ -1,19 +1,3 @@
-<h1 align="center">Hi 👋, I'm Raditya Haidar Maheswara</h1>
-
-<p align="center">
-  <img src="./banner-github.gif" width="500" height="250" alt="banner">
-</p>
-
-<h3 align="center"> Electrical Engineering student at Sepuluh Nopember Institute Technology (ITS) </h3>
-
-<p align="center">
-  I'm usually called <b>Radit</b> or <b>Hayder</b>. I have strong interests in IoT, Embedded Devices, Robotics, Hardware, and Semiconductor Engineering.<br>
-  I work across Robotics, PCB Design, and C++ Programming for Microcontrollers, with a primary focus on <b>Embedded Systems</b>.<br>
-  Here you'll find my original code for various IoT, Embedded and Robotics projects. 🚀
-</p>
-
-<br>
-
 # 🛠️ Tech Stack:
 
 <table align="center">
@@ -37,3 +21,9 @@
 </table>
 
 <br>
+
+<h3 align="center">📊 Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaidarRaditya&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>

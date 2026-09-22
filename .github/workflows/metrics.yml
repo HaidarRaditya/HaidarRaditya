@@ -1,0 +1,18 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: HaidarRaditya
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css # optional: skip markup languages
+          plugin_languages_details: percentages, bytes

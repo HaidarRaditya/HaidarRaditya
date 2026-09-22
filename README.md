@@ -14,8 +14,6 @@
 
 <br>
 
-# 🛠️ Tech Stack:
-
 <table align="center">
   <tr>
     <td align="center" title="C">

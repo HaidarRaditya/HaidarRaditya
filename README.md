@@ -37,3 +37,7 @@
 </table>
 
 <br>
+
+<p align="center">
+  <img src="metrics.plugin.languages.svg" alt="Most Used Languages" />
+</p>
